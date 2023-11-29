@@ -14,7 +14,7 @@
     <packaging>pom</packaging>
 
     <properties>
-        <logback.version>1.2.3</logback.version>
+        <logback.version>1.3.12</logback.version>
         <spring.context.version>5.1.9.RELEASE</spring.context.version>
         <maven.compile.version>3.8.1</maven.compile.version>
         <java.version>12</java.version>
